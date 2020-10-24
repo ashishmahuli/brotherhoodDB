@@ -1,0 +1,23 @@
+#help-container {
+    border: 2px solid #121964;
+    width: 500px;
+    height: 275px;
+    overflow: auto; /* allows scrolling */
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+
+#get-contact-button {
+    border-radius: 10px;
+    color: white;
+    background-color: #121964;
+    font-weight: bold;
+    height: 25px;
+    width: 150px;
+    font-size: 13.5px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 20px;
+  }
